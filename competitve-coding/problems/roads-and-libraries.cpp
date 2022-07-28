@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 
-#include "../algorithms/union-find.hh"
+#include "../algo-ds/graph/union-find.hh"
 
 using namespace std;
 
